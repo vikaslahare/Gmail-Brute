@@ -1,14 +1,27 @@
-# Gmail-Brute
-This script is only education purpose And use only in linux
+**How to make Gmail Bruteforce using python**
 
-step 1: copy url link
+**This Script is only education purpose**
 
-step2: git clone https://github.com/vikaslahare/Gmail-Brute.git
 
-step3: cd Gmail-Brute
+screenshot
 
-step4: python mail_brute.py
+<img src="ss..PNG" width="450"><br><br>
 
-and enjoy!!
 
-happy hacking!!
+Social Links :
+
+for more information Follow links :
+
+|**[Follow me on Instagram](https://instagram.com/__vikas__05)**|
+|---------------------------------------------------------------|
+
+
+
+|**[Follow me on Linkedin](https://www.linkedin.com/in/vikas-lahare-473144227/)**|
+|--------------------------------------------------------------------------------|
+
+
+
+|**[Subscribe my youtube channel](https://www.youtube.com/channel/UCf-YDB8E6JJ4eoBTBDKVBNQ)**|
+|--------------------------------------------------------------------------------------------|
+

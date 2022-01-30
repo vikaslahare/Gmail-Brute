@@ -1,0 +1,4 @@
+Example
+@@
+
+""" paste here your wordlist or passlist"""

@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 import smtplib
 
+
+print("#"*70)
+print("Made by vikas lahare ")
+print("#"*70)
+
 smtpserver = smtplib.SMTP("smtp.gmail.com", 587)
 smtpserver.ehlo()
 smtpserver.starttls()
